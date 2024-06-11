@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_balance"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Balance" />
+    <item
+        android:id="@+id/nav_withdraw"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Withdraw" />
+    <item
+        android:id="@+id/nav_deposit"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Deposit" />
+
+    <item
+        android:id="@+id/nav_payment_method"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Payment Method" />
+</menu>
